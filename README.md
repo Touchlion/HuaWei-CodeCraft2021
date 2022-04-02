@@ -1,5 +1,5 @@
 # HuaWei-CodeCraft2021
- 2021华为软件精英挑战赛粤港澳赛区复赛第六 
+ 2021华为软件精英挑战赛粤港澳赛区复赛第六\n 
  比赛链接：https://competition.huaweicloud.com/codecraft2021
 ### 赛题解析
 云上资源的规划和调度问题，来源于华为云运营过程中的实际场景。
